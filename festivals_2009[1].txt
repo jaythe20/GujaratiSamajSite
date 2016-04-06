@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="Author" content="Gujarati Cultural Association of Ottawa, Canada">
+<meta name="Keywords" content="gujarati, culture, gujarati cultural association, gujarati ottawa, gca, gca ottawa, gujarati canada, gca canada, indian ottawa, indian canada, gujarati community, indian community, gujarati community canada">
+<title>GCA Ottawa Home Page</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>GCA Ottawa Home Page</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<!-- 
+# Title       - Header page to be included on each page of the website, for easy navigation
+# FileName    - header.php
+# Author      - Keyur Hindocha
+# Version     - 1.0
+# Created  On - July 1, 2008
+-->
+
+<body>
+<div id="container">
+
+        <div id="header">
+        
+                <div id="header_left">
+                <h1>Gujarati Cultural Association</h1>
+                <h1> <span class="red">Ottawa, Canada</span></h1>
+                </div>
+            
+                <div id="header_right">
+                <img src="images/website/GCA_logo.jpg" width="200" height="119" />
+                
+                <!--
+                <p class="welcome">Welcome, Guest. Please login or <a href="#">register</a>.</p>
+                <form id="form1" method="post" action="">
+                    <p><label>Username
+                    <input type="text" class="fields" name="textfield" />
+                    </label>
+                    <label>Password
+                    <input type="text" class="fields" name="textfield2" />
+                    <input type="submit" class="submit_button" name="Submit" value="login" />
+                    </label></p>
+                  </form>  -->
+                  
+                  </div>
+          
+        </div>
+        
+        <div id="left">
+            
+            <h4><span class="menu_first_letter">Quick Links</span></h4>
+            
+            <div id="navcontainer">
+            <ul id="navlist">
+            <li id="active"><a href="index.php" id="current">Home</a></li>
+            <li class="green"><a href="President_Message.php">President's Message </a></li>
+            <li class="green"><a href="upcomingevents.php">Upcoming Events</a></li>
+            <li class="green"><a href="pastevents.php">Past Events</a></li>
+            <li class="green"><a href="constitution.php">Our Constitution</a></li>
+            <li class="green"><a href="membership.php">Membership</a></li>
+            <li class="green"><a href="executives.php">Executives</a></li>
+            <li class="green"><a href="picture_gallery.php">Picture Gallery</a></li>
+            <li class="green"><a href="festivals_2009.php">Hindu Festivals - 2009</a></li>
+            <li class="green"><a href="mailinglist.php">Mailing List</a></li>
+            <!-- <li class="green"><a href="/ajaxContact/index.php">Comments / Feedback</a></li> -->
+            </ul>
+        </div>
+        
+        <!--<h4>Contact us </h4>
+        
+        
+          <form id="form2" method="post" class="contact_us" action="">
+            <p><label>Name
+            <input type="text" class="fields_contact_us" name="textfield" />
+            </label>
+            <label>E-mail
+            <input type="text" class="fields_contact_us" name="textfield2" />
+            </label>
+            <label>
+            Your message:
+            <textarea name="textarea" cols="" rows=""></textarea>
+            </label>
+            <label>
+            <input type="submit" class="submit_button_contact" name="Submit3" value="Submit" />
+            </label></p>
+          </form> 
+        
+        <h4>Suggested links </h4>
+        
+        -->
+
+</div> 
+</body>
+</html>
+
+<div id="right">
+
+
+<h3>Hindu Festivals - 2009</h3>
+
+
+  <p>Hinduism is often described as a religion of fasts, feasts and festivals.       Here's a date-wise list of <strong>Hindu festivals</strong> and religious occasions       for 2009 (Saka Era: 1930-31 / Vikram Era: 2065-66). </p>
+  <p> </p>
+  <p class="festival_month_title">January
+  <ul>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa011203a.htm">Lohri</a>: Tuesday,         13-01-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa011001a.htm">Makarsankranti /         Pongal / Tamil         New Year / Magha Bihu</a>: Wednesday, 14-01-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa012803a.htm">Thiruvalluvar Day </a>: Thursday, 15-01-2009 </li>
+    <li>Mauni Amavasya: Monday, 26-01-2009</li>
+    <li><a href="http://hinduism.about.com/library/weekly/aa020700.htm">Vasant Panchami / Saraswati Puja</a>:       Saturday, 31-01-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">February
+  <ul>
+    <li> <a href="http://hinduism.about.com/od/pongal/a/thaipusam.htm">Thaipusam</a>: Sunday, 08-02-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa022001a.htm">Maha Shivaratri</a>:         Monday, 23-02-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">March
+  <ul>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa030401a.htm">Holi</a>: Wednesday, 11-03-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa100502a.htm">Spring / Vasanta / Chaitra         Navaratri begins</a>: Friday, 27-03-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa041002a.htm">Hindi New Year (Saka         Era 1931)</a>: Friday, 27-03-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa041002b.htm">Telugu New Year/ Ugadi / Gudi Padwa/ Cheti Chand: </a> Friday, 27-03-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">April
+  <ul>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa033101a.htm">Ramanavami</a>:         Friday, 03-04-2009 </li>
+    <li> Mahavir Jayanti: Tuesday, 07-04-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa052801a.htm">Hanuman Jayanti</a>:         Thursday, 09-04-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa041002b.htm">Baisakhi /</a><a href="http://hinduism.about.com/library/weekly/aa041002b.htm"> Vishu</a>: Tuesday,         13-04-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa041002b.htm">Bengali New Year         / Bohag Bihu</a>: Wednesday, 15-04-2009 </li>
+    <li> <a href="http://hinduism.about.com/od/festivalsholidays/a/akshayatritiya.htm">Akshaya         Tritiya</a>: Monday, 27-04-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">May
+  <ul>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa052602a.htm">Buddha Purnima /         Vaisakhi Purnima</a>: Friday, 08-05-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">June
+  <ul>
+    <li> Ganga Dashami / Dussehra: Tuesday, 02-06-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa063000a.htm">Rath Yatra</a>:         Wednesday, 24-06-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">July
+  <ul>
+    <li> <a href="http://hinduism.about.com/od/festivalsholidays/a/gurupurnima.htm">Guru Purnima         / Asadha Purnima</a>: Tuesday, 07-07-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">August
+  <ul>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa080800a.htm">Raksha-Bandhan</a>:         Wednesday, 05-08-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa082000a.htm">Krishna Janmashtami</a>:         Friday, 14-08-2009 </li>
+    <li> Indian Independence Day: Saturday, 15-08-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa083000a.htm">Ganesh/Vinayak         Chaturthi</a>: Sunday, 23-08-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">September
+  <ul>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa091000a.htm">Onam</a>: Wednesday,         02-09-2009 </li>
+    <li> Shikshak Divas / Teacher's Day: Saturday, 05-09-2009 </li>
+    <li> Pitr-Paksha begins: Saturday, 05-09-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa092401a.htm">Vishwakarma Puja</a>:         Thursday, 17-09-2009 </li>
+    <li> <a href="http://hinduism.about.com/cs/audiomusic/a/aa092003a.htm">Mahalaya</a>: Friday,         18-09-2009 </li>
+    <li> Pitr-Paksha ends: Friday, 18-09-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa100502a.htm">Navaratri begins</a>:         Saturday, 19-09-2009 </li>
+    <li> <a href="http://hinduism.about.com/cs/durgapuja">Durga Puja begins (Maha Saptami)</a>:         Friday, 25-09-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa100502a.htm">Navaratri ends</a>:         Sunday, 27-09-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa101701a.htm">Vijaya Dashami/Dusshera</a>:         Monday, 28-09-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">October
+  <ul>
+    <li> <a href="http://hinduism.about.com/b/a/206766.htm%22%20target=%22_blank">Gandhi Jayanti</a>:         Friday, 02-10-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa100900a.htm">Lakshmi Puja</a> / Sharad Purnima: Saturday, 03-10-2009 </li>
+    <li> <a href="http://hinduism.about.com/od/gurussaintsofthepast/a/valmiki.htm">Valmiki Jayanti</a>: Sunday, 04-10-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa101902a.htm">Karwa Chauth</a>:         Thursday, 08-10-2009 </li>
+    <li> Dhanteras: Thursday, 15-10-2009 </li>
+    <li> Chhoti Diwali: Friday, 16-10-2009 </li>
+    <li> <a href="http://hinduism.about.com/cs/diwali">Diwali</a>: Saturday, 17-10-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa051202a.htm"> Kali Puja</a>:         Saturday, 17-10-2009 </li>
+    <li> Naraka Chaturdasi:         Saturday, 17-10-2009 </li>
+    <li> Govardhan Puja: Sunday, 18-10-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa041002a.htm">Vikram New Year         2066</a>: Sunday, 18-10-2009 </li>
+    <li> <a href="http://hinduism.about.com/library/weekly/aa102800a.htm">Bhai Dooj / Bhai         Phota / Bhav-Bij</a>: Monday, 19-10-2009 </li>
+    <li> Chhat Puja: Saturday, 24-10-2009 </li>
+  </ul></p>
+  
+  <p class="festival_month_title">November
+  <ul>
+    <li> Guru Nanak Jayanti: Monday, 02-11-2009 </li>
+  </ul>
+  <br /></p>
+  
+  <p>These festivals were referenced from the <a href="http://hinduism.about.com/od/festivalsholidays/a/hindu_calendar.htm"> following page.</a> </p>
+</div>
+  <div id="footer"> GCA, Ottawa &#169; 2008-2009 </div>
+</body>
+</html>

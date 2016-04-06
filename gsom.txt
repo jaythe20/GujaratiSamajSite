@@ -1,0 +1,76 @@
+<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="gsom.aspx.vb" Inherits="Gujarati_Samaj.gsom" %>
+<%@ Register TagPrefix="GSOM_HEADER" TagName="header" Src="GSOM_HEADER.ASCX" %>
+<%@ Register TagPrefix="GSOM_MAINMENU" TagName="mainmenu" Src="GSOM_MAINMENU.ASCX" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Gujarati Samaj of Montreal</title>
+    <style type="text/css">
+        #Button1
+        {
+            z-index: 1;
+            left: 6px;
+            top: 189px;
+            position: absolute;
+            height: 30px;
+            width: 65px;
+        }
+        .grad_green_head
+        {
+            filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#7D9663', startColorstr='#FFFFFF', gradientType='1');
+        }   
+        .grad_maroon_rightbar
+        {
+            filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#AC5858', startColorstr='#800000', gradientType='0');
+        }   
+    </style>
+</head>
+<body link="#000000" alink="#800000" vlink="#000000"
+    <form id="form1" runat="server" >
+
+    <div> <!--Banner and Top Menu-->
+         <GSOM_HEADER:header runat="server" /> 
+    </div>
+    
+    <div>
+    
+        <div> <!--Center Body Content-->
+        <!-- Title --> 
+         <table BORDER="0" cellpadding="5" cellspacing="0"
+          
+                style="width: 817px; height=70px; z-index: 121px; left: 1px; top: 121px; position: absolute; height: 90px; bottom: 254px;">
+          <tr>
+           <td style="width=90px">
+           <img style="height: 70px; width: 90px" />
+           </td>
+           <td  style= "width=738px;font-size=18px; text-align: center; color: #800000;" >
+            <br\>
+            <strong>Welcome to our Gujarati Samaj of Montreal Website!</strong>
+            
+            </br\>
+           </td>
+           <td style="width=90px";>
+           <img style="height: 70px; width: 90px" />
+           </td>
+
+          </tr>
+         </table>
+        
+         <table>
+            <!-- center --> 
+             <tr>
+             <td>
+             </td>
+             </tr>
+         </table>
+        </div>
+        
+        <div> <!--Right Menu Bar-->
+             <GSOM_MAINMENU:mainmenu runat="server" /> 
+        </div>
+    </div>
+    </form>
+  
+</body>
+</html>

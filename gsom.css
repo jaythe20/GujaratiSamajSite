@@ -1,0 +1,111 @@
+﻿body
+{
+	font-family: georgia,verdana, Arial;
+	font-size: 14px;
+	margin:0;
+	background-color:#F5F5F1;
+}
+
+.PageTitle
+{
+	font-family: georgia,verdana;
+	font-size: 26px;
+	font-weight:bold;	
+	color:#FF3300;
+	text-align:center;
+}
+
+.centerbody
+{
+    vertical-align: top;
+    font-family: 'Times New Roman' , Times, serif;
+    font-size: 14px;
+    background-color: #FFE6CC;
+}   
+
+.tabletitle
+{   border: medium double #FF3300; 
+    font-size:18px; 
+    font-weight:bolder;
+}
+
+.festivaltitle
+{   font-size:14px; 
+    font-weight:bolder;
+    color:#FF3300;
+    text-align:center;
+}
+
+.festivaldetail
+{   font-size:12px; 
+    color:#000000;    
+}
+
+.festivaldetail2
+{   font-size:12px; 
+    color:#006666;
+    font-weight:bold;
+}
+
+.festivaldetail3
+{
+    font-size: 12px;
+    color: #FF0066;
+    font-weight: bold;
+}
+
+.festivalheader
+{
+    background-color: #003366;
+    color: White;
+    font-size: 16px;
+}
+
+.cl_link1 a:link
+{
+    color: #2222FF;
+    text-decoration: none;
+}     /* unvisited link */
+
+.cl_link1 a:visited 
+{
+    color: #0000FF; 
+    text-decoration: none;
+}  /* visited link */
+
+.cl_link1 a:hover 
+{
+    color: #CC0000; 
+    text-decoration: underline;
+}   /* mouse over link */
+
+.cl_link1 a:active 
+{
+    color: #577E2D; 
+    text-decoration: none;
+}   /* selected link */
+
+.cl_link2 a:link 
+{
+    color: #000000; 
+    text-decoration: none;
+}     /* unvisited link */
+
+.cl_link2 a:visited 
+{
+    color: #000000; 
+    text-decoration: none;
+}  /* visited link */
+
+.cl_link2 a:hover 
+{
+    color: #CC0000; 
+    text-decoration: underline;
+}   /* mouse over link */
+
+.cl_link2 a:active 
+{
+    color: #577E2D; 
+    text-decoration: none;
+}   /* selected link */
+

@@ -1,0 +1,104 @@
+<%@ Control Language="vb" AutoEventWireup="false" CodeBehind="GSOM_MAINMENU.ascx.vb" Inherits="Gujarati_Samaj.GSOM_MAINMENU" %>
+<style type="text/css">
+
+        .grad_green
+        {
+            filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#7D9663', startColorstr='#FFFFFF', gradientType='0');
+        }   
+        .grad_orange
+        {
+            filter:progid:DXImageTransform.Microsoft.Gradient(endColorstr='#FD9935', startColorstr='#FFFFFF', gradientType='0');
+        }   
+</style>
+
+    <div> 
+    <table BORDER="0" cellpadding="0" cellspacing="0"
+            style="width: 137px; z-index: 1; left: 818px; top: 121px; position: absolute; height: 306px; text-align: center; font-size: 12px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;"
+            >
+    
+      <tr>
+         <td class="grad_green"
+             onMouseover="this.className='grad_orange';this.style.color='#800000';"
+             onMouseout="this.className='grad_green';this.style.color='#000000';">
+         <a href="gsom.aspx"> Home</a> </td>        
+      </tr>
+      
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         President's Message</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Membership</td>       
+      </tr>
+    
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Events</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Youth Center</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Newsletters</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Picture Gallery</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Mailing List</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Hindu Festivals 2009</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Useful Links</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Community Links</td>       
+      </tr>
+
+      <tr>
+         <td class="grad_green"
+            onMouseover="this.className='grad_orange';this.style.color='#800000';"
+            onMouseout="this.className='grad_green';this.style.color='#000000';">
+         Contact Us</td>       
+      </tr>
+
+    </table>    
+    </div>
