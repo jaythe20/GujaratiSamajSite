@@ -83,7 +83,7 @@ Dollard Des Ormeaux, QC<br/>
        Saturday
        </td>
        <td>
-       April 30,2016<br />
+       May 07,2016<br />
 Timing: 4:00PM to 8:00PM       
        </td>
        <td>Riverdale school cafeteria <br/>
